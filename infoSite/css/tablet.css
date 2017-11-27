@@ -1,0 +1,29 @@
+@media only screen and (min-width: 641px){
+
+/*-----MAIN BODY STYLES-----*/
+.container{
+	margin: 0 auto;
+}
+
+
+/*-----HEADER STYLES-----*/
+
+
+
+/*-----CONTENT STYLES-----*/
+.card{
+	display: inline-block;
+	width: 49%;
+}
+.card1{
+	display: inline-block;
+	width: 49%;
+}
+
+
+/*-----FOOTER STYLES-----*/
+
+
+
+
+} /*end media query*/
