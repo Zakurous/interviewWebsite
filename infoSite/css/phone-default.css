@@ -97,6 +97,18 @@ nav ul li a:hover{
 	list-style-type: disc;
 }
 
+.thumbnail{
+	width: 20%;
+}
+
+figure.thumbnail figure{
+	border: 1px solid black;
+}
+
+figure img.thumbnail{
+	width: 100%;
+}
+
 /*-----FOOTER STYLES-----*/
 footer {
 	text-align: center;
