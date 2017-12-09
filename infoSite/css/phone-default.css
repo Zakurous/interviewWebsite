@@ -97,16 +97,14 @@ nav ul li a:hover{
 	list-style-type: disc;
 }
 
-.thumbnail{
-	width: 20%;
+figure.tumbnail {
+    width: 96%;
+    margin: .3em 0 .3em 2%;
 }
 
-figure.thumbnail figure{
-	border: 1px solid black;
-}
-
-figure img.thumbnail{
-	width: 100%;
+figure img{
+	width: 50%;
+	border: 1px solid #336643;
 }
 
 /*-----FOOTER STYLES-----*/
