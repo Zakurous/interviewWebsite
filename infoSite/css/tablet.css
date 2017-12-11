@@ -24,6 +24,10 @@ figure.thumbnail {
     width: 100%;
 }
 
+.pmInfo.card1 {
+    float: right;
+}
+
 /*-----FOOTER STYLES-----*/
 
 
